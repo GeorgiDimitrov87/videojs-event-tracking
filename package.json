@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "videojs-event-tracking": "^1.0.2"
+  },
+  "devDependencies": {
+    "video.js": "^7.15.4"
+  }
+}
